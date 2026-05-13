@@ -1,2 +1,1 @@
-# CrunchyFries
-French Fries Resto
+French Fries
